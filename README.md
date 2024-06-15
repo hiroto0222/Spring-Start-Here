@@ -1,9 +1,9 @@
 # Spring Start Here - Spilcă, Laurenţiu
 
 ## Table of Contents
-1. [Spring In The Real World](chapter-1.md)
-2. [The Spring Context: Defining Beans](chapter-2.md)
-3. [The Spring Context: Wiring Beans](chapter-3.md)
+1. [Spring In The Real World](notes/chapter-1.md)
+2. [The Spring Context: Defining Beans](notes/chapter-2.md)
+3. [The Spring Context: Wiring Beans](notes/chapter-3.md)
 4. The Spring Context: Using Abstractions
 5. The Spring Context: Bean Scopes And Life Cycle
 6. Using Aspects with Spring AOP
